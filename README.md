@@ -1,6 +1,6 @@
-# Rufus::Scheduler::Cronline::Occurrences
+# Rufus::Scheduler::CronLine::Occurrences
 
-This gem provides Rufus::Scheduler::Cronline#occurrences method which
+This gem provides Rufus::Scheduler::CronLine#occurrences method which
 returns potential trigger time within the [ time0, time1 ] span.
 (time0 exclusive, time1 inclusive)
 
